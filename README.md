@@ -28,3 +28,6 @@ A React app with Firebase Firestore for managing courses. This app allows studen
 - Public Read Access Enabled → No need for Firebase credentials.
 - Images stored in Cloudinary → Already fetched from Firebase.
 
+## 💡 Need Help?
+If you have any issues, feel free to open an issue in the repository or contact me.
+
